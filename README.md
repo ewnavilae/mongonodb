@@ -7,3 +7,5 @@
 
 #### **Con**
 - *Write-only*: Similar to /dev/null.
+#### **Documentation**
+![Documentation](./banner.png)
